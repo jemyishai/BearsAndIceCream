@@ -6,3 +6,16 @@ function iceCreamIsBetterThanBears(flavor) {
 }
 
 //HEYYO!
+
+//you hear the one about the corduroy pillows?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+//they're making headlines
